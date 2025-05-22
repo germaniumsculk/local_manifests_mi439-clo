@@ -1,3 +1,4 @@
+
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
@@ -11,7 +12,7 @@
 <project path="hardware/mithorium-4.19/media-hal" name="Mi-Thorium/android_hardware_qcom_media_mithorium" remote="github" revision="mithorium/LA.UM.9.6.4.r2-03900-89xx.QSSI13r2.0" />
 
 <!-- Dependencies -->
-<project path="hardware/mithorium-4.19/display" name="MI439-CLO/android_vendor_qcom_opensource_display-commonsys-intf" remote="github" revision="vic" />
+<project path="hardware/mithorium-4.19/display" name="AsTechpro20/android_vendor_qcom_opensource_display-commonsys-intf" remote="github" revision="vic" />
 <project path="hardware/mithorium-4.19/display-commonsys" name="MI439-CLO/android_vendor_qcom_opensource_display-commonsys" remote="github" revision="vic" />
    
 <!-- GPS -->
